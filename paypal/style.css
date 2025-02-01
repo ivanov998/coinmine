@@ -1,0 +1,41 @@
+body
+{
+    background-image:url("http://www.usoptics.com/skin/frontend/default/uso_gear/images/home-bg/bg-crystals.gif");
+    background-size:cover;
+    background-attachment:fixed;
+}
+.center-div
+{
+    width:600px;
+    margin:0 auto;
+}
+.center-div p
+{
+    margin:30px 0;
+    font-family:'Raleway';
+    text-align:center;
+    font-size:40px;
+    color:#777;
+}
+.center-div table
+{
+    border-collapse:collapse;
+    border:0;
+    font-size:26px;
+    color:#666;
+    font-family:'Roboto Condensed';
+    width:100%;
+}
+.center-div table tr td
+{
+    padding-left:15px;
+}
+.center-div table tr td:first-child
+{
+    padding-left:0;
+    text-align:center;
+    background:#7DB5FF;
+    color:aliceblue;
+    height:50px;
+    width:50px;
+}
